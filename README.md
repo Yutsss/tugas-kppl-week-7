@@ -81,5 +81,5 @@ Setelah tahap deployment, kami perlu memantau dan memelihara aplikasi agar bisa 
 
 - Pembaharuan keamanan jika terdapat celah keamanan baru.
 
-**Link Demo: **https://youtu.be/h6a0SppxyCY
+**Link Demo:** https://youtu.be/h6a0SppxyCY
 
